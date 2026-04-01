@@ -33,9 +33,9 @@ class LaravelStub
     /**
      * The stub extension.
      *
-     * @var string|null
+     * @var ?string
      */
-    protected string|null $ext;
+    protected ?string $ext;
 
     /**
      * The list of replaces.
