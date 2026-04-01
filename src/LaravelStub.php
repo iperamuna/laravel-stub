@@ -35,7 +35,7 @@ class LaravelStub
      *
      * @var ?string
      */
-    protected ?string $ext;
+    protected ?string $ext = null;
 
     /**
      * The list of replaces.
